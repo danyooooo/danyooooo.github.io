@@ -9,7 +9,9 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    /*background-color: #f4f4f4;*/
+    background-image: url("https://wallpapers.com/images/featured/ultra-hd-wazf67lzyh5q7k32.jpg");
+    background-repeat: no-repeat;
     color: #333;
 }
 
